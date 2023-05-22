@@ -1,6 +1,5 @@
 # burusuko
-python module for Bluesky Social
-minimum API is defined.
+python module for Bluesky Social.  
 
 ## usage
 ```python:test.py
@@ -25,6 +24,12 @@ $ python test.py
 2023-05-22T14:24:52Z hello burusuko
 ```
 
+## Warning
+please note, currently minimum API is defined. 
+
 ## Reference
 - [SwiftでBlueskyに投稿を行う](https://qiita.com/masaru-honma/items/ef27553c51cbdfb2ebca)
 - [Bluesky/AT Protocol: cURL API Interaction Cheatsheet](https://gist.github.com/pojntfx/72403066a96593c1ba8fd5df2b531f2d)
+
+## Copyright
+@j3tm0t0 bsky:j3tm0t0.dev
